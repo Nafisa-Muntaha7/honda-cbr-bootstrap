@@ -7,6 +7,12 @@ body{
 .button-css{
     background-color:#E76F51;
 }
+.featured-bikes img{
+    width: 288px;
+}
+.grayscale img{
+    filter: grayscale(100%);
+}
 .color-css{
     color:#E76F51;
 }
