@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.container-css{
+    width: 100%;
+}
 .header-bg{
     background-color:#264653;
 }
@@ -20,7 +23,7 @@ body{
     width: 149px;
 }
 .faq-img img{
-width: 431px;
+width: 420px;
 }
 .carousel-bg{
    background-color:#7ea0ad ;
